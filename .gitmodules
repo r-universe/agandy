@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "chopthin"]
 	path = chopthin
 	url = https://github.com/cran/chopthin
-	shallow = true
-	registered = true
 [submodule "mcunit"]
 	path = mcunit
 	url = https://bitbucket.org/agandy/mcunit
-	shallow = true
-	registered = true
 [submodule "simctest"]
 	path = simctest
 	url = https://github.com/cran/simctest
-	shallow = true
-	registered = true
 [submodule "spcadjust"]
 	path = spcadjust
 	url = https://github.com/cran/spcadjust
-	shallow = true
-	registered = true
