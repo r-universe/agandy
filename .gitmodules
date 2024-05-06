@@ -14,3 +14,6 @@
 [submodule "spcadjust"]
 	path = spcadjust
 	url = https://github.com/cran/spcadjust
+[submodule "systemicrisk"]
+	path = systemicrisk
+	url = https://github.com/cran/systemicrisk
